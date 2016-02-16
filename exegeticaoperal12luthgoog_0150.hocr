@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./exegeticaoperal12luthgoog_0150.png"; bbox 0 0 2584 4267; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 311 1388 798 1501">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 311 1388 798 1501">
+     <span class='ocr_line' id='line_1_1' title="bbox 311 1388 798 1501; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 311 1389 448 1501; x_wconf 80' lang='lat' dir='ltr'>IOEL</span> <span class='ocrx_word' id='word_1_2' title='bbox 483 1388 798 1500; x_wconf 75' lang='lat' dir='ltr'>PROPHETA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 512 1616 594 1673">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 512 1616 594 1673">
+     <span class='ocr_line' id='line_1_2' title="bbox 512 1616 594 1673; baseline 0.012 -1"><span class='ocrx_word' id='word_1_3' title='bbox 512 1616 594 1673; x_wconf 85' lang='lat' dir='ltr'><strong>OVM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 191 1822 914 1992">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 191 1822 914 1992">
+     <span class='ocr_line' id='line_1_3' title="bbox 191 1822 914 1883; baseline -0.001 -2"><span class='ocrx_word' id='word_1_4' title='bbox 191 1822 530 1883; x_wconf 72' lang='lat' dir='ltr'>comfflN&#39;rARns</span> <span class='ocrx_word' id='word_1_5' title='bbox 563 1822 824 1883; x_wconf 78' lang='lat' dir='ltr'><strong>REVERENDI</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 856 1822 914 1881; x_wconf 83' lang='lat' dir='ltr'><strong>ET</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 263 1928 836 1992; baseline -0.003 -2"><span class='ocrx_word' id='word_1_7' title='bbox 263 1930 448 1992; x_wconf 78' lang='lat' dir='ltr'>SANCTAE</span> <span class='ocrx_word' id='word_1_8' title='bbox 483 1928 708 1989; x_wconf 73' lang='lat' dir='ltr'>MEMORIAE</span> <span class='ocrx_word' id='word_1_9' title='bbox 741 1928 836 1988; x_wconf 81' lang='lat' dir='ltr'><strong>vlm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 227 2117 870 2203">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 227 2117 870 2203">
+     <span class='ocr_line' id='line_1_5' title="bbox 227 2117 870 2203; baseline -0.003 -3"><span class='ocrx_word' id='word_1_10' title='bbox 227 2121 280 2200; x_wconf 85' lang='lat' dir='ltr'><strong>D.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 307 2120 564 2203; x_wconf 83' lang='lat' dir='ltr'><strong>MARTINI</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 590 2117 870 2202; x_wconf 85' lang='lat' dir='ltr'><strong>LVTHERL</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 499 2420 698 2506">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 499 2420 698 2506">
+     <span class='ocr_line' id='line_1_6' title="bbox 499 2420 698 2506; baseline -0.005 -1"><span class='ocrx_word' id='word_1_13' title='bbox 499 2444 597 2506; x_wconf 83' lang='lat'>1547.</span> <span class='ocrx_word' id='word_1_14' title='bbox 693 2420 698 2424; x_wconf 79' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1296 4267">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1296 4267">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1296 4267; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1296 4267; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

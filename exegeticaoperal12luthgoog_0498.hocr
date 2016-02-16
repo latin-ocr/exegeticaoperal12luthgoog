@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./exegeticaoperal12luthgoog_0498.png"; bbox 0 0 2584 4267; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 304 1159 2170 1814">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 304 1159 2170 1814">
+     <span class='ocr_line' id='line_1_1' title="bbox 886 1159 1599 1275; baseline 0.006 -4"><span class='ocrx_word' id='word_1_1' title='bbox 886 1159 1599 1275; x_wconf 78' lang='lat' dir='ltr'><strong>Adnotationes</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 304 1638 2170 1814; baseline 0.002 -32"><span class='ocrx_word' id='word_1_2' title='bbox 304 1638 2170 1814; x_wconf 68' lang='lat' dir='ltr'><strong>Abdiampropnetam</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 590 2165 1876 2250">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 590 2165 1876 2250">
+     <span class='ocr_line' id='line_1_3' title="bbox 590 2165 1876 2250; baseline 0.001 -16"><span class='ocrx_word' id='word_1_3' title='bbox 590 2166 1066 2250; x_wconf 40' lang='lat' dir='ltr'><strong>*prauleetione</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1110 2167 1196 2236; x_wconf 82' lang='lat' dir='ltr'><strong>I).</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1243 2167 1532 2236; x_wconf 72' lang='lat' dir='ltr'><strong>Martini</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1576 2165 1876 2235; x_wconf 77' lang='lat' dir='ltr'><strong>Lutheri</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 737 2362 1733 2482">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 737 2362 1733 2482">
+     <span class='ocr_line' id='line_1_4' title="bbox 737 2362 1733 2482; baseline 0.005 -16"><span class='ocrx_word' id='word_1_7' title='bbox 737 2414 1203 2482; x_wconf 70' lang='lat' dir='ltr'><strong>Vuittembergae</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1238 2432 1393 2471; x_wconf 83' lang='lat' dir='ltr'><strong>anno</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1429 2362 1733 2472; x_wconf 53' lang='lat' dir='ltr'><strong>MmiXV.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1109 2587 1364 2646">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1109 2587 1364 2646">
+     <span class='ocr_line' id='line_1_5' title="bbox 1109 2587 1364 2646; baseline -0.012 -15"><span class='ocrx_word' id='word_1_10' title='bbox 1109 2587 1364 2646; x_wconf 76' lang='lat' dir='ltr'><strong>exceptae.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

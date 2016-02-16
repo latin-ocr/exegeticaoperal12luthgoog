@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./exegeticaoperal12luthgoog_0388.png"; bbox 0 0 2584 4267; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 967 1248 1343 1370">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 967 1248 1343 1370">
+     <span class='ocr_line' id='line_1_1' title="bbox 967 1248 1343 1370; baseline -0.011 -25"><span class='ocrx_word' id='word_1_1' title='bbox 967 1248 1343 1370; x_wconf 78' lang='lat' dir='ltr'>Excepta</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 296 1714 2035 1890">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 296 1714 2035 1890">
+     <span class='ocr_line' id='line_1_2' title="bbox 296 1714 2035 1890; baseline 0.001 -34"><span class='ocrx_word' id='word_1_2' title='bbox 296 1716 789 1860; x_wconf 68' lang='lat' dir='ltr'><strong>Amos</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 924 1714 2035 1890; x_wconf 71' lang='lat' dir='ltr'><strong>propnetam</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 581 2243 1756 2419">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 581 2243 1756 2419">
+     <span class='ocr_line' id='line_1_3' title="bbox 581 2243 1756 2329; baseline -0.001 -17"><span class='ocrx_word' id='word_1_4' title='bbox 581 2244 1056 2328; x_wconf 66' lang='lat' dir='ltr'><strong>prafllffltione</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1105 2243 1481 2312; x_wconf 76' lang='lat' dir='ltr'><strong>christiani</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1527 2245 1756 2329; x_wconf 76' lang='lat' dir='ltr'><strong>patris</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 773 2349 1558 2419; baseline 0.004 -3"><span class='ocrx_word' id='word_1_7' title='bbox 773 2352 857 2418; x_wconf 82' lang='grc' dir='ltr'><strong>Β.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 901 2351 1187 2419; x_wconf 76' lang='lat' dir='ltr'>Martini</span> <span class='ocrx_word' id='word_1_9' title='bbox 1231 2349 1558 2419; x_wconf 78' lang='lat' dir='ltr'><strong>Luthori.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 392 2580 1917 2648">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 392 2580 1917 2648">
+     <span class='ocr_line' id='line_1_5' title="bbox 392 2580 1917 2648; baseline 0.003 -16"><span class='ocrx_word' id='word_1_10' title='bbox 392 2580 861 2648; x_wconf 57' lang='lat' dir='ltr'><strong>“ff-*mttemhergaa</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 897 2583 975 2635; x_wconf 92' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 997 2582 1064 2635; x_wconf 91' lang='lat' dir='ltr'><strong>D.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1091 2583 1346 2637; x_wconf 90' lang='lat' dir='ltr'>XXIIII.</span> <span class='ocrx_word' id='word_1_14' title='bbox 1385 2599 1586 2638; x_wconf 79' lang='lat' dir='ltr'>mense</span> <span class='ocrx_word' id='word_1_15' title='bbox 1613 2582 1917 2638; x_wconf 84' lang='lat' dir='ltr'>decembri.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./exegeticaoperal12luthgoog_0008.png"; bbox 0 0 2584 4267; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1079 1297 1639 1356">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1079 1297 1639 1356">
+     <span class='ocr_line' id='line_1_1' title="bbox 1079 1297 1639 1356; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1079 1297 1465 1356; x_wconf 84' lang='lat' dir='ltr'>SVMME</span> <span class='ocrx_word' id='word_1_2' title='bbox 1628 1336 1639 1342; x_wconf 63' lang='grc'><strong><em>«</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 923 1476 1615 1537">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 923 1476 1615 1537">
+     <span class='ocr_line' id='line_1_2' title="bbox 923 1476 1615 1537; baseline 0.004 -3"><span class='ocrx_word' id='word_1_3' title='bbox 923 1476 1615 1537; x_wconf 85' lang='lat' dir='ltr'><strong>REVERENDO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 477 1667 2069 1998">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 477 1667 2069 1998">
+     <span class='ocr_line' id='line_1_3' title="bbox 477 1667 2069 1779; baseline 0.001 -5"><span class='ocrx_word' id='word_1_4' title='bbox 477 1667 966 1777; x_wconf 85' lang='lat' dir='ltr'>ORDINI</span> <span class='ocrx_word' id='word_1_5' title='bbox 1054 1667 2069 1779; x_wconf 79' lang='lat' dir='ltr'>THEOLOGORVM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 935 1916 1593 1998; baseline -0.003 0"><span class='ocrx_word' id='word_1_6' title='bbox 935 1916 1593 1998; x_wconf 82' lang='lat' dir='ltr'>ACADEMIAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 829 2129 1731 2255">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 829 2129 1731 2255">
+     <span class='ocr_line' id='line_1_5' title="bbox 829 2129 1731 2255; baseline 0.003 -23"><span class='ocrx_word' id='word_1_7' title='bbox 829 2129 1731 2255; x_wconf 66' lang='lat' dir='ltr'>IENENSOE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 679 2467 1869 2551">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 679 2467 1869 2551">
+     <span class='ocr_line' id='line_1_6' title="bbox 679 2467 1869 2551; baseline 0.003 -4"><span class='ocrx_word' id='word_1_8' title='bbox 679 2467 1243 2550; x_wconf 88' lang='lat' dir='ltr'><strong>IOANNES</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1308 2469 1707 2550; x_wconf 86' lang='lat' dir='ltr'><strong>LINKE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1763 2473 1869 2551; x_wconf 87' lang='lat' dir='ltr'><strong>D.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 752 2627 1796 2680">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 752 2627 1796 2680">
+     <span class='ocr_line' id='line_1_7' title="bbox 752 2627 1796 2680; baseline 0.003 -3"><span class='ocrx_word' id='word_1_11' title='bbox 752 2629 881 2678; x_wconf 75' lang='lat' dir='ltr'><strong>APVD</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 919 2627 1353 2680; x_wconf 66' lang='lat' dir='ltr'>ALTENBVRGENSES</span> <span class='ocrx_word' id='word_1_13' title='bbox 1391 2630 1796 2680; x_wconf 68' lang='lat' dir='ltr'><strong>AacmmACONVS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
